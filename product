@@ -1,0 +1,28 @@
+<html>
+<head>
+<title>GitHubwork</title>
+</head>
+<body>
+<div height="10px" width="100%">
+  <div style="padding:30px;">
+    <img src="imglogo.png" height="30px" width="30px">
+  </div>
+</div>
+<div height="50px" width="50%">
+  <div style="padding:60px; bold:10px;">
+    <h1>Fill the Form.</br>It's Easy.<h1>
+  </div>
+</div>
+
+<div style="position:absolute;">
+<div style="padding:60px; bold:10px;">
+  <form action="" method="post">
+    product name:
+    <input type="text" name="pname">
+    product price:
+    <input type="number" name="price">
+  </form>
+</div>
+</div>
+</body>
+</html>
